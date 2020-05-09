@@ -7,3 +7,6 @@ then start machine learning algorithims. I will start with one that benefits fro
 
 5.4.2020
 implemented KNN and logistic regression. normalized data and brough accuracy up a little higher with hyperparameter
+
+5.9.2020
+cleaning up project code. working on paper
