@@ -10,3 +10,6 @@ implemented KNN and logistic regression. normalized data and brough accuracy up 
 
 5.9.2020
 cleaning up project code. working on paper
+
+5.10.2020
+project complete. final report complete
